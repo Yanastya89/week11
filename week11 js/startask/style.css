@@ -1,0 +1,20 @@
+body {
+	font-size: 18px;
+
+}
+
+h1 {
+	font-size: 5vw;
+	color:rgb(57, 221, 233);
+}
+
+
+
+button{
+	padding: 1vw 0.5vw;
+	border-radius: 5px;
+  cursor: pointer;
+	border-style:dashed;	
+	border-color: rgb(57, 221, 233);
+}
+
